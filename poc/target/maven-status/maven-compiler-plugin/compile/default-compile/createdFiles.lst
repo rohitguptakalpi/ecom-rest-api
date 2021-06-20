@@ -1,0 +1,14 @@
+com\example\poc\PocApplication.class
+beans\Order.class
+com\xepenxion\Service\UserService.class
+com\xepenxion\repo\UserRepo.class
+beans\Discount.class
+com\xepenxion\Service\DiscountService.class
+com\xepenxion\Service\ProductService.class
+com\xepenxion\repo\DiscountRepo.class
+beans\Product.class
+com\xepenxion\repo\ProductRepo.class
+beans\User.class
+com\xepenxion\Controller\ProductController.class
+com\xepenxion\repo\OrderRepo.class
+com\xepenxion\Service\OrderService.class
